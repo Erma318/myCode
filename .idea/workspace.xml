@@ -2,31 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b7ebf2f-fd6a-42a1-8f89-3c167342fa7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design/BlackJack/BlackJackGameAutomator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/BlackJack/BlackJackHand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/BlackJack/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/BlackJack/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/BlackJack/Hand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/BlackJack/Suit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/Elevator/Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/Elevator/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/Elevator/SimpleScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/Elevator/Simulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/InMemoryFileSystem/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/InMemoryFileSystem/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/InMemoryFileSystem/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/InMemoryFileSystem/FileSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/ParkLot/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/ParkLot/Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/ParkLot/ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/ParkLot/ParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/ParkLot/Trigger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/ParkLot/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/ParkLot/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/ParkLot/VehicleSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heap/KSmallestInUnsortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map/FindDuplicateInWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/DeleteNodeInBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/myCode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myCode/test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
@@ -205,6 +180,9 @@
       <workItem from="1582485942340" duration="4614000" />
       <workItem from="1582602193124" duration="36897000" />
       <workItem from="1583116210179" duration="7553000" />
+      <workItem from="1583628127337" duration="1231000" />
+      <workItem from="1584808189300" duration="894000" />
+      <workItem from="1585958393937" duration="4623000" />
     </task>
     <servers />
   </component>
@@ -225,32 +203,32 @@
     </state>
     <state x="427" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1582485916842" />
     <state x="640" y="310" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1576340546435" />
-    <state width="1237" height="133" key="GridCell.Tab.0.bottom" timestamp="1583464734631">
+    <state width="1237" height="133" key="GridCell.Tab.0.bottom" timestamp="1584808484290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1200.1920.1160@0.-1200.1920.1160" timestamp="1579464958208" />
-    <state width="1237" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1583375482048" />
+    <state width="1237" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1584808484290" />
     <state width="1237" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583464734631" />
     <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1576370278674" />
-    <state width="1237" height="133" key="GridCell.Tab.0.center" timestamp="1583464734631">
+    <state width="1237" height="133" key="GridCell.Tab.0.center" timestamp="1584808484290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="143" key="GridCell.Tab.0.center/0.0.1280.680/0.-1200.1920.1160@0.-1200.1920.1160" timestamp="1579464958208" />
-    <state width="1237" height="133" key="GridCell.Tab.0.center/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1583375482048" />
+    <state width="1237" height="133" key="GridCell.Tab.0.center/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1584808484290" />
     <state width="1237" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583464734631" />
     <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1576370278674" />
-    <state width="1237" height="133" key="GridCell.Tab.0.left" timestamp="1583464734631">
+    <state width="1237" height="133" key="GridCell.Tab.0.left" timestamp="1584808484290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="143" key="GridCell.Tab.0.left/0.0.1280.680/0.-1200.1920.1160@0.-1200.1920.1160" timestamp="1579464958208" />
-    <state width="1237" height="133" key="GridCell.Tab.0.left/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1583375482048" />
+    <state width="1237" height="133" key="GridCell.Tab.0.left/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1584808484290" />
     <state width="1237" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583464734631" />
     <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1576370278674" />
-    <state width="1237" height="133" key="GridCell.Tab.0.right" timestamp="1583464734631">
+    <state width="1237" height="133" key="GridCell.Tab.0.right" timestamp="1584808484290">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1877" height="143" key="GridCell.Tab.0.right/0.0.1280.680/0.-1200.1920.1160@0.-1200.1920.1160" timestamp="1579464958208" />
-    <state width="1237" height="133" key="GridCell.Tab.0.right/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1583375482048" />
+    <state width="1237" height="133" key="GridCell.Tab.0.right/0.0.1280.680/0.-1200.1920.1160@0.0.1280.680" timestamp="1584808484290" />
     <state width="1237" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583464734631" />
     <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1576370278674" />
     <state width="1237" height="153" key="GridCell.Tab.1.bottom" timestamp="1583097400368">
